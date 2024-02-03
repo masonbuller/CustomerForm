@@ -1,7 +1,7 @@
 # <h1>Customer Form with JavaScript and jQuery</h1>
 
 <h2>Description</h2>
-Project consists of a jQuery script that creates and stores a customer object using JSON so users can register and update the list displayed.
+Project consists of a JavaScript that creates and stores a customer object using JSON so users can register and update the list displayed.
 <br />
 <br />
 
@@ -12,9 +12,12 @@ Project consists of a jQuery script that creates and stores a customer object us
 <h2>Languages Used</h2>
 
 - <b>JavaScript</b>
-- <b>jQuery</b>
 - <b>HTML</b>
 - <b>CSS</b>
+
+<h2>Libraries Used</h2>
+
+- <b>jQuery</b>
 
 
 <h2>Environments Used </h2>
