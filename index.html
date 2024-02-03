@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Customer Form - Assignment 5</title>
+    <link rel="stylesheet" href="assign5.css">
+</head>
+<body>
+    <main>
+        <h1>Customer Form</h1>
+        
+        <div>
+            <label for="name">Name:</label>
+            <input type="text" id="name">
+            <span>*</span>
+        </div>
+
+        <div>
+            <label>City:</label>
+            <input type="text" id="city">
+            <span>*</span>
+        </div>
+
+            
+        <div>
+            <label for="state">State:</label>
+            <select name="state" id="state">
+                <option value="">Select a state</option>
+                <option>IA</option>
+                <option>IL</option>
+                <option>IN</option>
+                <option>MD</option>
+                <option>MI</option>
+                <option>MN</option>
+                <option>NE</option>
+                <option>NJ</option>
+                <option>OH</option>
+                <option>PA</option>
+                <option>WI</option>
+            </select>
+            <span>*</span>
+        </div>
+
+        <div>
+            <label>Email:</label>
+            <input type="text" id="email">
+            <span>*</span>
+        </div>
+
+        <div>
+            <label>&nbsp;</label>
+            <input type="button" id="add" value="Add">
+            <br>
+        </div>
+
+        <div>
+            <span id="message"></span>
+            <br><br>
+        </div>
+
+        <div>
+            <fieldset>
+            <legend>Customers</legend>
+            <ol></ol>
+            </fieldset>
+        </div>
+    </main>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+    <script src="assign5.js"></script>
+</body>
+</html>

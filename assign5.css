@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin: 1em auto;
+    width: 600px;
+    border: 3px solid blue;
+    padding: 0 2em 1em;
+}
+h1 {
+    color: blue;
+}
+div {
+    margin-bottom: 1em;
+}
+label {
+    display: inline-block;
+    width: 6em;
+    text-align: right;
+}
+input, select {
+    margin-left: 1em;
+    margin-right: 0.5em;
+}
+select {
+    width: 12.75em;
+    height: 1.75em;
+}
+span {
+    color: red;
+}
+textarea {
+    margin-left: 1em;
+}
+#add {
+    margin-left: 1.5em;
+    width: 11.5em;
+}
+#message {
+    margin-left: 2em;
+}
