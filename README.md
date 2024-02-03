@@ -1,4 +1,4 @@
-# <h1>Customer Form with JavaScript and jQuery</h1>
+# <h1>Customer Form with JavaScript</h1>
 
 <h2>Description</h2>
 Project consists of a JavaScript that creates and stores a customer object using JSON so users can register and update the list displayed.
