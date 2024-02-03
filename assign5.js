@@ -1,6 +1,4 @@
 // Mason Buller
-// Assignment 5
-// 11-27-23
 
 "use strict";
 
