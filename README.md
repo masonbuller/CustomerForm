@@ -11,7 +11,7 @@ Project consists of a JavaScript that creates and stores a customer object using
 - <b>HTML</b>
 - <b>CSS</b>
 
-<h2>Libraries Used</h2>
+<h2>Frameworks Used</h2>
 
 - <b>jQuery</b>
 
