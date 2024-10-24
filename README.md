@@ -3,8 +3,6 @@
 <h2>Description</h2>
 <p>Project consists of a JavaScript that creates and stores a customer object using JSON so users can register and update the list displayed.</p>
 <p>This project works with JavaScript, HTML, and CSS to create a customer form interface. A customer object holds each customers information in a JSON string, and each is stored in a customers array. The user can enter a new customer and click add, which then will update the display box to show the new customer and their information.</p>
-<br />
-<br />
 
 <h2>Languages Used</h2>
 
